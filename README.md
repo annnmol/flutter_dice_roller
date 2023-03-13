@@ -2,6 +2,6 @@
 
 A dice roller flutter app. try your luck if you can get the same numbers. you win
 
-link: https://drive.google.com/file/d/1PydbdaYTEpT9o2uNHYHFt55V5dlWJuPa/view?usp=share_link
+Google drive link: https://drive.google.com/file/d/1PydbdaYTEpT9o2uNHYHFt55V5dlWJuPa/view?usp=share_link
 
-https://drive.google.com/uc?export=download&id=1PydbdaYTEpT9o2uNHYHFt55V5dlWJuPa
+direct link: https://drive.google.com/uc?export=download&id=1PydbdaYTEpT9o2uNHYHFt55V5dlWJuPa
