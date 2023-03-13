@@ -1,3 +1,5 @@
 # dice_roller
 
-A new Flutter project.
+A dice roller flutter app. try your luck if you can get the same numbers. you win
+
+link: 
